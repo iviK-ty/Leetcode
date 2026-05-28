@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/iviK-ty/Leetcode/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iviK-ty/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/iviK-ty/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/iviK-ty/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
