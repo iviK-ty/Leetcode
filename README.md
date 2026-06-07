@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iviK-ty/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/iviK-ty/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/iviK-ty/Leetcode/tree/master/0645-set-mismatch) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/iviK-ty/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iviK-ty/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
